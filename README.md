@@ -27,8 +27,3 @@ A collection of statistics concepts, examples, and Python implementations for bu
 - SciPy
 - Scikit-learn
 
-## Part of My AI Engineering Roadmap
-
-This repository is part of my Mathematics for Machine Learning studies, following my work with Python, NumPy, Pandas, Matplotlib, and Seaborn.
-
-The next stage of my Mathematics for Machine Learning journey is Probability.
